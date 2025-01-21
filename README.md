@@ -1,2 +1,2 @@
-# papers
-Paper Implementation Repo
+# Paper Implementation
+Implementation of papers
